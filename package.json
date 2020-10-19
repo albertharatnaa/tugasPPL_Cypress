@@ -1,0 +1,14 @@
+{
+  "name": "projek_cypress",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Husnul Hotimah",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^5.3.0"
+  }
+}
